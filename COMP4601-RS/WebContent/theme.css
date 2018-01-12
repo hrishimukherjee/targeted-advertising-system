@@ -1,0 +1,58 @@
+.wrap {
+	width: 100%;
+	height: 100%;
+	overflow:auo;
+}
+
+.fleft {
+    float: left; 
+    width: 80%;
+    height: 100%;
+	!background:burlywood;
+}
+
+.fright {
+	float: right;
+    !background:aquamarine;
+    width: 20%;
+    height: 100%;
+}
+
+.ad {
+	width: 90%;
+	height: 40%;
+	border: 1px solid black;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	overflow:auo;
+}
+
+.ad_visual {
+	width: 90%;
+	height: 55%;
+	border: 1px solid black;
+	margin: 0 auto;
+}
+
+.ad_text {
+	width: 90%;
+	height: 40%;
+	border: 1px solid black;
+	margin: 0 auto;
+	margin-top: 5px;
+	margin-bottom: 3px;
+}
+
+img {
+	width: 100%;
+	height: 100%;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+}
